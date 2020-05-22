@@ -1,4 +1,10 @@
 # 《Spring5核心原理与30个类手写实战》
+### 4个月销量破万，连续占据畅销榜
+
+### 京东购买链接：[https://item.jd.com/12650902.html](https://item.jd.com/12650902.html?_blank)
+
+### 当当购买链接：[http://product.dangdang.com/27905338.html](http://product.dangdang.com/27905338.html)
+
 倾注十年Spring研究精华与见解
 
 ★本书几乎涵盖在Spring应用中可能遇到的所有问题，核心原理（IoC、DI、AOP、MVC）、高仿手写、数据访问等
@@ -45,5 +51,6 @@
 # 技术交流
 ![image](https://github.com/gupaoedu-tom/resouce/blob/master/gupaoedu-tom-qrcode.png)
 
-### 下一本《Netty 4核心原理与手写RPC框架》正在撰稿中，请关注...
+### 推荐《[Netty 4核心原理与手写RPC框架实战](https://github.com/gupaoedu-tom/netty4-samples)》已全面开启预售！！！
+### 下一本《[设计模式就该这样学](https://github.com/gupaoedu-tom/design-samples)》正在撰稿中，请关注...
 
